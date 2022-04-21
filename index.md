@@ -1,4 +1,4 @@
-###CryptoBlox###
+## CryptoBlox ##
 
 This is our first physical product (in a series) and is a 3d printed Lego-like block that has been designed to conceal your Ledger Nano S. It looks and acts just like a standard Lego block except It has a cavity to store you Ledger device on the underside.  
 
