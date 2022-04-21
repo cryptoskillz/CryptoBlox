@@ -9,7 +9,7 @@ We offer it for free under the MIT license and ask for a $1 license fee (payable
 
 Please send funds (BTC) only to:
 
-3CQVJmzHGcEbnoDKbaAQshvUiUenujZvxw
+bc1q63vhza4jc7096w4skyzf6jtk30ylnf2ssmhpfj
 
 If you would like to pay by Lightning then please contact us via Twitter
 
