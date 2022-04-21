@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+###CryptoBlox###
 
-You can use the [editor on GitHub](https://github.com/cryptoskillz/CryptoBlox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is our first physical product (in a series) and is a 3d printed Lego-like block that has been designed to conceal your Ledger Nano S. It looks and acts just like a standard Lego block except It has a cavity to store you Ledger device on the underside.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you a 3D printing manufacturer or already sell crypto products we would love you to also sell this. 
 
-### Markdown
+We offer it for free under the MIT license and ask for a $1 license fee (payable via BTC or Lightning) for each unit sold. In the spirit of Bitcoin, this is a completely optional payment. You can choose to pay us more or nothing. However, if you do choose to pay the license fee this will allow us to continue to design and giveaway new products as well as fund our teaching and outreach efforts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please send funds (BTC) only to:
 
-```markdown
-Syntax highlighted code block
+bc1q63vhza4jc7096w4skyzf6jtk30ylnf2ssmhpfj
 
-# Header 1
-## Header 2
-### Header 3
+If you would like to pay by Lightning then please contact us via Twitter
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cryptoskillz/CryptoBlox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://twitter.com/crypto_skillz
